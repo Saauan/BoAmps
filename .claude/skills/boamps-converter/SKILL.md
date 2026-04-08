@@ -8,6 +8,7 @@ description: >
   converter", "generate BoAmps reports from my data", or "turn my mapping into code" — even
   if they don't mention the skill by name. This skill produces a validated Python script that
   converts source files into schema-valid BoAmps JSON reports.
+disable-model-invocation: true
 ---
 
 # BoAmps Converter

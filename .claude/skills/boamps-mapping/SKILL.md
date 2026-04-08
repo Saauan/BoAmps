@@ -8,6 +8,7 @@ description: >
   "mapping_info.csv", setting up a BoAmps pipeline, or standardizing their ML energy
   measurements — even if they don't say "mapping" explicitly. This skill produces
   mapping_info.csv and mapping_extra_info.md, which feed directly into the boamps-converter skill.
+disable-model-invocation: true
 ---
 
 # BoAmps Mapping
